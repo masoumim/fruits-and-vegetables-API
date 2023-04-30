@@ -17,7 +17,7 @@ Endpoints:
 
 Fruits
 ------
-Get:
+**Get:**
   
 
 /fruits
@@ -28,24 +28,24 @@ Get:
 
 /fruits?color=colorName
 
-Post:
+**Post:**
   
 
 /fruits
 
-Put:
+**Put:**
   
 
 /fruits/:id
 
-Delete:
+**Delete:**
   
 
 /fruits/:id
 
 Vegetables
 -----------
-Get:
+**Get:**
   
 
 /vegetables
@@ -56,17 +56,17 @@ Get:
 
 /vegetables?color=colorName
 
-Post:
+**Post:**
   
 
 /vegetables
 
-Put:
+**Put:**
   
 
 /vegetables/:id
 
-Delete:
+**Delete:**
   
 
 /vegetables/:id
