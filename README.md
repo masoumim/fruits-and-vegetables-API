@@ -19,7 +19,9 @@ Fruits
 ------
 Get:
 /fruits
+
 /fruits/:id
+
 /fruits?color=colorName
 
 Post:
@@ -35,7 +37,9 @@ Vegetables
 -----------
 Get:
 /vegetables
+
 /vegetables/:id
+
 /vegetables?color=colorName
 
 Post:
