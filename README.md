@@ -19,42 +19,54 @@ Fruits
 ------
 Get:
   
+
 /fruits
 
+
 /fruits/:id
+
 
 /fruits?color=colorName
 
 Post:
   
+
 /fruits
 
 Put:
   
+
 /fruits/:id
 
 Delete:
   
+
 /fruits/:id
 
 Vegetables
 -----------
 Get:
   
+
 /vegetables
 
+
 /vegetables/:id
+
 
 /vegetables?color=colorName
 
 Post:
   
+
 /vegetables
 
 Put:
   
+
 /vegetables/:id
 
 Delete:
   
+
 /vegetables/:id
